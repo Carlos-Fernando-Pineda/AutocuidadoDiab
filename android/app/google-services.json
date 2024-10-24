@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "585207963279",
+    "project_id": "proyectograduacion-d340a",
+    "storage_bucket": "proyectograduacion-d340a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585207963279:android:0b23d1431e53e229421afa",
+        "android_client_info": {
+          "package_name": "com.example.autocuidado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585207963279-lkk0u7pneve69vgcs90fvshrjnsanv6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autocuidado",
+            "certificate_hash": "6c7d17bd891a4f1103b503c49777b4deb0f48497"
+          }
+        },
+        {
+          "client_id": "585207963279-i1ta1njurf3tfq4t5p0usucs33i186fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdeyzf4g0Hwnpx_exUJa9vZsh8jF0wpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585207963279-i1ta1njurf3tfq4t5p0usucs33i186fk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585207963279-86tv39nbhgerqb52cvsb6svqbia8jp6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.autocuidado"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585207963279:android:8bdd5978e7e66992421afa",
+        "android_client_info": {
+          "package_name": "com.example.proyectograduacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585207963279-0ueooqagn5o3akbr2rnhea7d94es4spl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectograduacion",
+            "certificate_hash": "6c7d17bd891a4f1103b503c49777b4deb0f48497"
+          }
+        },
+        {
+          "client_id": "585207963279-i1ta1njurf3tfq4t5p0usucs33i186fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdeyzf4g0Hwnpx_exUJa9vZsh8jF0wpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585207963279-i1ta1njurf3tfq4t5p0usucs33i186fk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585207963279-86tv39nbhgerqb52cvsb6svqbia8jp6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.autocuidado"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
