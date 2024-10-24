@@ -1,5 +1,5 @@
 name: autocuidado
-description: "A new Flutter project."
+description: "Proyecto de Graduación sobre el Autocuidado de la diabetes, con el objetivo de mejorar la calidad de vida de los pacientes. Este repositorio contiene los módulos realizados, aún necesitasn trabajo pero con el tiempo quizás será actualizado y arreglado."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
